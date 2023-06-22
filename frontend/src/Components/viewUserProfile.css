@@ -1,0 +1,8 @@
+.totalprofile{
+    max-width: 80vw;
+}
+.tagsandrequests{
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+}

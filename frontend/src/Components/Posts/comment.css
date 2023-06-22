@@ -1,0 +1,25 @@
+.comment{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    /* padding-bottom: 5px; */
+}
+.commentreplyblock{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+
+}
+.subcommentblock{
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    padding-left: 60px;
+    padding-bottom: 20px;
+
+}
+.replycomment{
+    cursor: pointer;
+}

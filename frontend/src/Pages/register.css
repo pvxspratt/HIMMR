@@ -1,0 +1,7 @@
+.background{
+    display: flex;
+    height: 100vh;
+    column-gap: 80px;
+    background-color: rgb(255,255,255);
+   
+}

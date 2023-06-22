@@ -1,0 +1,16 @@
+.sidebaricon{
+    /* padding-top: 2vw; */
+    padding-right: 2vw;
+}
+.Icontab{
+    display: flex;
+    flex-direction: row;
+    padding: 2vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    color: rgb(102, 102, 102);
+}
+.Icontab:hover{
+    background-color: rgb(235, 235, 236);
+    color: black;
+}

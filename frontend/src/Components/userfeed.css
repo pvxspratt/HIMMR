@@ -1,0 +1,11 @@
+
+.profileslideshow{
+    display: flex;
+    flex-direction: row;
+    gap:50px;
+    flex-wrap: wrap;
+}
+.bg {
+    background-color: rgb(255,255,255);
+
+}

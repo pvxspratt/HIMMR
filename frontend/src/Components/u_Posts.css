@@ -1,0 +1,22 @@
+.postsfeed{
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+
+  }
+  .newpostdiv{
+    display:flex;
+    flex-direction: row;
+    column-gap: 15px;
+    padding: 25px;
+  }
+  .user_textinput{
+    width: 400px;
+    height: 20px;
+    border: 1px solid rgb(206, 210, 215);
+    padding: 15px;
+    background-color: rgb(244, 246, 249);
+    color: rgb(128, 131, 136);
+    border-radius: 15px;
+    cursor:auto;
+  }

@@ -1,0 +1,61 @@
+.photo1{
+    background-image: url("../photos/1.png");
+    background-size: cover;
+    height: 400px;
+    width: 300px;
+    
+    position: absolute;
+    left:500px;
+    top:200px;
+    transform: rotate(-20deg);
+    z-index: 2;
+
+
+}
+
+.photo2{
+    background-image: url("../photos/2.png");
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    
+    height: 400px;
+    width: 300px;
+    
+    position: absolute;
+    left:300px;
+    top:150px;
+    transform: rotate(-5deg);
+    z-index: 1;
+
+}
+.photo3{
+    background-image: url("../photos/3.png");
+    background-size: cover;
+    height: 300px;
+
+    width: 300px;
+   
+    height: 400px;
+    width: 300px;
+    
+    position: absolute;
+    left:26px;
+    top:170px;
+    transform: rotate(-41deg);
+    z-index: 1;
+
+}
+.collage{
+    width: 800px;
+    height:auto;
+    display: flex;
+    position: relative;
+}
+.heading{
+    font-family: URW Chancery L, cursive;
+    position:absolute;
+    font-size:50px;
+    left:200px;
+    top:50px
+}

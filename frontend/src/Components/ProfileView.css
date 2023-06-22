@@ -1,0 +1,24 @@
+.userinfo{
+    display: flex;
+    margin-top: 100px;
+}
+.card1{
+    display: flex;
+    flex-direction: row;
+    row-gap: 30px;
+    column-gap: 30px;
+}
+.chips{
+    margin-top: 20px;
+    max-width: 350px;
+}
+.mapdiv{
+    padding: 20px;
+    padding-left: 5px;
+}
+.bottom{
+    display: flex;
+    flex-direction: row;
+    column-gap: 30px;
+
+}

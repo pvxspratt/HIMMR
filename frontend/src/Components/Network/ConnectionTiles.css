@@ -1,0 +1,18 @@
+.ConnectTile{
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+.tilechips{
+    display: flex;
+    flex-direction: row;
+}
+.tileinfo{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    width:40vw;
+}
+.tiledecrip{
+    color: rgb(118, 119, 118);
+}

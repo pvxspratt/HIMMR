@@ -1,0 +1,22 @@
+{
+    "web": {
+        "client_id": "991765734909-r8ubli0djc8guenpoeq5d5em5thskt50.apps.googleusercontent.com",
+        "project_id": "himmr-345822",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost:8000",
+            "https://himmr-backend.herokuapp.com",
+            "http://127.0.0.1:8000"
+        ],
+        "javascript_origins": [
+            "http://localhost:3000",
+            "http://localhost:8000",
+            "https://himmr-1.web.app",
+            "https://himmr-backend.herokuapp.com",
+            "http://127.0.0.1:8000"
+        ]
+    }
+}

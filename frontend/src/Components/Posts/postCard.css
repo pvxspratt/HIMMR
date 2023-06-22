@@ -1,0 +1,28 @@
+.MuiCardHeader-title{
+    font-weight: bold !important;
+    /* color:red; */
+}
+.MuiCard-root{
+    max-height: 100vh;
+    max-width: 47vw;
+    height :100vh;
+}
+.likes{
+    margin-left: 25px ;
+    display: flex;
+    flex-direction: row;
+    column-gap: 8px;
+
+}
+.likecontent{
+    margin-top: 5px;
+}
+.totalcomments{
+    cursor: pointer;
+    
+}
+.popimageclass{
+    max-height: 506px;
+max-width: 425.523px;
+aspect-ratio: 1080 / 1347;
+}

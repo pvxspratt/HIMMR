@@ -1,0 +1,16 @@
+psycopg2
+psycopg2-binary
+Django==4.0.3
+djangorestframework~=3.13.1
+djangorestframework-simplejwt
+django-react
+django-cors-headers
+pillow
+pyyaml
+uritemplate
+coreapi
+gunicorn
+django-heroku
+python-dotenv
+geocoder
+googlemaps
